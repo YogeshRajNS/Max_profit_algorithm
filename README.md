@@ -237,6 +237,3 @@ Project Link: [https://github.com/YogeshRajNS/Max_profit_algorithm](https://gith
 - Solution uses classic dynamic programming optimization techniques
 - Inspired by resource allocation and scheduling problems in operations research
 
----
-
-⭐ If you found this project helpful, please consider giving it a star!
