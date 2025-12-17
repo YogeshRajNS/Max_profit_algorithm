@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔮 Future Enhancements
 
-- [ ] Add visualization of construction timeline and earnings graph
+- [1] Add visualization of construction timeline and earnings graph
 - [ ] Export results to CSV/PDF format
 - [ ] Show step-by-step DP table computation
 - [ ] Add interactive property comparison charts
