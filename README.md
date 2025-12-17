@@ -215,14 +215,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔮 Future Enhancements
 
-- [1] Add visualization of construction timeline and earnings graph
-- [ ] Export results to CSV/PDF format
-- [ ] Show step-by-step DP table computation
-- [ ] Add interactive property comparison charts
-- [ ] Support for custom property types and parameters
-- [ ] Animation showing building construction sequence
-- [ ] Profit breakdown per time unit visualization
-- [ ] Compare efficiency metrics across solutions
+-  Add visualization of construction timeline and earnings graph
+-  Export results to CSV/PDF format
+-  Show step-by-step DP table computation
+-  Add interactive property comparison charts
+-  Support for custom property types and parameters
+-  Animation showing building construction sequence
+-  Profit breakdown per time unit visualization
+-  Compare efficiency metrics across solutions
 
 ## 👤 Author
 
