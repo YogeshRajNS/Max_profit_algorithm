@@ -67,7 +67,7 @@ pip install streamlit
 
 Run the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run max_profit_algorithm.py
 ```
 
 The app will open in your default browser at `http://localhost:8501`
